@@ -1,0 +1,2 @@
+# Example Project Structure Repo
+Use this repo as an example of what your project strcuture should look like in github: you want to remove .idea, target, and other unnecessary directories and folders you may have in your project repo
